@@ -15,3 +15,7 @@ You can force re-run specific rules:
 ```
 snakemake -f hello
 ```
+
+Refer to the [Snakemake
+documentation](https://snakemake.readthedocs.io/en/stable/index.html)
+for more features/ways to build workflows.
